@@ -24,6 +24,7 @@ This repository stores `.ipynb` notebooks that systematically walk through Pytho
 ## CampusX Data Science Mentorship Program
 
 I’m progressing through the **CampusX Data Science Mentorship Program**, which spans ~7 months and delivers an industry-aligned curriculum focused on hands-on learning with assignments, projects, and case studies. It also includes interview prep, portfolio development.
+
 ---
 
 ## Structure & Notebooks
@@ -62,5 +63,6 @@ CampusX
 ---
 
 Happy coding—and best of luck mastering Python from basics to advanced topics!
+
 
 
