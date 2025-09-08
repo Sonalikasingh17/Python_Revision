@@ -11,7 +11,7 @@ This repository supports my learning journey through the **CampusX Data Science 
 2. [CampusX Data Science Mentorship Program](#campusx-data-science-mentorship-program)  
 3. [Structure & Notebooks](#structure--notebooks)     
 4. [Learning Roadmap](#learning-roadmap)  
-5. [License](#license)
+5. [Summary](#summary)
 
 ---
 
@@ -23,8 +23,7 @@ This repository stores `.ipynb` notebooks that systematically walk through Pytho
 
 ## CampusX Data Science Mentorship Program
 
-I’m progressing through the **CampusX Data Science Mentorship Program**, which spans ~7 months and delivers an industry-aligned curriculum focused on hands-on learning with assignments, projects, and case studies. It also includes interview prep, portfolio development, and doubt support.:contentReference[oaicite:0]{index=0}
-
+I’m progressing through the **CampusX Data Science Mentorship Program**, which spans ~7 months and delivers an industry-aligned curriculum focused on hands-on learning with assignments, projects, and case studies. It also includes interview prep, portfolio development.
 ---
 
 ## Structure & Notebooks
@@ -51,17 +50,17 @@ I’m progressing through the **CampusX Data Science Mentorship Program**, which
 3. SQL, EDA, ML fundamentals (as per program curriculum)
 CampusX
 
-## License
+## Summary
 
 ### What’s Included in This README Template
 
 - **Clear sections** to guide both you and others through the repository.  
 - **Repository structure overview** for easier navigation.  .  
-- References to where you are in the **CampusX program** with citation.:contentReference[oaicite:2]{index=2}  
+- References to where you are in the [**CampusX program**](https://campusx1040.graphy.com/s/preview/courses/CampusX-Data-Science-Mentorship-Program#6376dbd8e4b065a4cadac4db)
 - **Learning roadmap**, linked to your notebook progression and the broader program curriculum.
 
 ---
 
 Happy coding—and best of luck mastering Python from basics to advanced topics!
-::contentReference[oaicite:3]{index=3}
+
 
