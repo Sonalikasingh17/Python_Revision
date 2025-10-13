@@ -31,7 +31,7 @@ I’m progressing through the **CampusX Data Science Mentorship Program**, which
 
 | File / Folder               | Description                                  |
 |----------------------------|----------------------------------------------|
-| `Task_01.ipynb`, … `Task_12.ipynb` | Early-stage notebooks (basic concepts)   |
+| `Task_01.ipynb`, … `Task_29.ipynb` | Early-stage notebooks (basic concepts)   |
 | `Task_12(generator_decorator_iterator).ipynb` | Advanced topics: generators, decorators, iterators |
 | `requirements.txt`         | Python dependencies (if any)                 |
 | `README.md`                | Overview & guide for the repository          |
