@@ -50,8 +50,8 @@ I’m progressing through the **CampusX Data Science Mentorship Program**, which
 2. Data visualization (Matplotlib, Seaborn)
 3. SQL, EDA, ML fundamentals (as per program curriculum)
 CampusX
-
-## Summary
+   
+## Summary 
 
 ### What’s Included in This README Template
 
@@ -63,6 +63,7 @@ CampusX
 ---
 
 Happy coding—and best of luck mastering Python from basics to advanced topics!
+
 
 
 
